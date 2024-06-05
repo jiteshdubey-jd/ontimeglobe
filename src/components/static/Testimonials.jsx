@@ -2,7 +2,6 @@ import quotes from "../../assets/quotes.svg";
 import {
   Card,
   CardContent,
-  CardDescription,
   CardFooter,
   CardHeader,
   CardTitle,

@@ -8,7 +8,7 @@ const Navigation = () => {
     <WithNavigation>
       {homeNavigation.map((nav, idx) => (
         <Link key={`${nav.name}_${idx}`} to={nav.link} legacyBehavior passHref>
-          <NavigationMenuLink className={navigationMenuTriggerStyle()}>
+          <NavigationMenuLink className={navigationMenuTriggerStyle("bg-transparent") }>
             {nav.name}
           </NavigationMenuLink>
         </Link>
