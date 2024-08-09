@@ -13,13 +13,13 @@ const Home = () => {
     <div className="bg-[#EDF0F3]">
       <Navbar />
       <Hero />
-      <About />
+      {/* <About />
       <Services />
       <Companies />
       <HowItWorks />
       <Tutorial />
       <Testimonials />
-      <Footer />
+      <Footer /> */}
     </div>
   );
 };

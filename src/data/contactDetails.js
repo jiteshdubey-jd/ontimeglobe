@@ -1,4 +1,4 @@
 export default {
     email: "info@ontimeglobe.com",
-    phoneNumber: "+91 123 4567 89",
+    phoneNumber: "+91 90 229 29 068",
 }
